@@ -29,6 +29,7 @@ function handleOnSubmit(event){
       <div>
         <form id="inp" onClick={(e)=>handleOnSubmit(e)}>
         <button type="submit" >ADD</button>
+        <button type="submit" >Delete</button>
         </form>
      </div>
       <table>
