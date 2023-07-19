@@ -1,0 +1,20 @@
+table,  th, td {
+  border: 1px solid black;
+}
+table{
+  width: 43%;
+  border-collapse: collapse;
+}
+
+
+.input{
+  padding-right: 29%;
+  margin-right: 8px;
+}
+button{
+  background-color: blue;
+  color: white;
+  margin-left: 5px;
+}
+
+
